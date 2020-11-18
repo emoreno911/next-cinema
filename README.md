@@ -2,6 +2,8 @@
 
 A concept for a Movie booking app built with NextJS. :arrow_forward::arrow_forward::arrow_forward: [`Watch Demo`](https://next-cinema.netlify.app/)
 
+Note :construction: : Mobile view pending!
+
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
